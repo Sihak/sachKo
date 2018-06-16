@@ -27,7 +27,7 @@ export const AppRouting = createTabNavigator({
         screen: HomeScreen,
 
     },
-    Cart: {
+    Order: {
         screen: HomeScreen,
 
     },
